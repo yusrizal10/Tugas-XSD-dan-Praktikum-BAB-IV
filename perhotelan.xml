@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perhotelan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="perhotelan.xsd">
+	
+	<nama>Rifki Subagja</nama>
+	<no_ktp>24726347263746356327</no_ktp>
+	<tgl_lahir>20 Agustus 1992</tgl_lahir>
+	<jenis_kelamin>Laki-laki</jenis_kelamin>
+	<agama>islam</agama>
+	<status>Sudah Menikah</status>
+	<no_hp>081517287265</no_hp>
+	<alamat>Jl.Pasir Kaliki No.20</alamat>
+	<email>RifkiSubagja@gmail.com</email>
+	<kamar nomor="20">
+		<hotel>Permata Indah</hotel>
+	</kamar>
+	
+	<nama>Wulan Purnamasari</nama>
+	<no_ktp>24726733248923478712</no_ktp>
+	<tgl_lahir>13 April 1990</tgl_lahir>
+	<jenis_kelamin>Perempuan</jenis_kelamin>
+	<agama>islam</agama>
+	<status>Sudah Menikah</status>
+	<no_hp>089514687465</no_hp>
+	<alamat>Jl.Kebun Jeruk No.30</alamat>
+	<email>WulanPurnama@gmail.com</email>
+	<kamar nomor="25">
+		<hotel>Permata Indah</hotel>
+	</kamar>
+	
+	<nama>Seta Purnama</nama>
+	<no_ktp>2471073324837460812</no_ktp>
+	<tgl_lahir>23 Januari 1999</tgl_lahir>
+	<jenis_kelamin>Laki-laki</jenis_kelamin>
+	<agama>islam</agama>
+	<status>Belum Menikah</status>
+	<no_hp>083214377765</no_hp>
+	<alamat>Jl.Ranca Bali No.15</alamat>
+	<email>SetaPurnama@gmail.com</email>
+	<kamar nomor="15">
+		<hotel>Permata Indah</hotel>
+	</kamar>
+	
+	<nama>Hari Santoso</nama>
+	<no_ktp>21236733248877578712</no_ktp>
+	<tgl_lahir>10 Februari 1980</tgl_lahir>
+	<jenis_kelamin>Laki-laki</jenis_kelamin>
+	<agama>islam</agama>
+	<status>Sudah Menikah</status>
+	<no_hp>081129868746</no_hp>
+	<alamat>Jl.Kebun Kelapa No.19</alamat>
+	<email>HariSantoso@gmail.com</email>
+	<kamar nomor="30">
+		<hotel>Permata Indah</hotel>
+	</kamar>
+	
+	<nama>Ratnasari</nama>
+	<no_ktp>21127733245623478890</no_ktp>
+	<tgl_lahir>02 Maret 1998</tgl_lahir>
+	<jenis_kelamin>Perempuan</jenis_kelamin>
+	<agama>islam</agama>
+	<status>Belum Menikah</status>
+	<no_hp>081214227465</no_hp>
+	<alamat>Jl.Setra Sari No.30</alamat>
+	<email>Ratnasari@gmail.com</email>
+	<kamar nomor="35">
+		<hotel>Permata Indah</hotel>
+	</kamar>
+</perhotelan>
